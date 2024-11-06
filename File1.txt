@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi This is Dhruvil.
+=======
+Hi This is DHRUVIL BHATT.
+>>>>>>> B1
